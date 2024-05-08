@@ -5,7 +5,7 @@
 
 ---
 ## Bonjour 👋, 
-I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :cloud:. I`m Passionated for develping AI/ML websites. Learning
+I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :cloud:. I`m Passionated for develping AI/ML websites. Learning, exploring 
  
  
  - 👯 I’m looking for MERN and ML Projects.
