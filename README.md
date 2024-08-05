@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-abdulhameedbcs001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulhameedbcs001@gmail.com)](mailto:abdulhameedbcs001@gmail.com)
 
 ---
-## Bonjour 👋, 
-I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :cloud:. I`m Passionated for develping AI/ML websites. Learning, exploring 
+## Hi 👋, 
+I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :cloud:. I`m Passionated for develping AI/ML websites. Learning, exploring Programming Languages
  
  
  - 👯 I’m looking for MERN and ML Projects.
