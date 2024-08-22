@@ -8,7 +8,7 @@
 I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :cloud:. I`m Passionated for develping AI/ML websites. Learning, exploring Programming Languages
  
  
- - 👯 I’m looking for MERN and ML Projects.
+ - 👯 I’m looking for MERN, MEVN, PERN and ML Projects.
  
  - 💬 Ask me about Python, Full Stack Development, and specifically MERN.
  
