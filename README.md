@@ -5,7 +5,7 @@
 
 ---
 ## Hi 👋, 
-I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :cloud:. I`m Passionated for develping AI/ML websites. Learning, exploring Programming Languages like java, js and python. 
+I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :cloud:. I`m Passionated for develping AI/ML websites. Learning, exploring Programming Languages like java, Js/Ts and python. 
  
  
  - 👯 I’m looking for MERN, MEVN, PERN and ML Projects/Jobs.
@@ -51,11 +51,15 @@ I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :clou
 ---
 
 
-## Statistics
+### Statistics
 
-
+## Most Used Languages
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulHameed-10&show_icons=true&locale=en&layout=compact" alt="AbdulHameed-10" /></p>
+
+## Github Score
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulHameed-10&show_icons=true&locale=en" alt="AbdulHameed-10" /></p>
+
+## Streak
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdulhameed-10&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" /></p>
 <div>
 </div>
