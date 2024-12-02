@@ -14,11 +14,15 @@ I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :clou
  
  - ⚡ Languages:  Python, Java, Cpp, and Javascript.
  
- - <a href="https://linktr.ee/mrabdulhameed">Visit Portfolio</a>
+ - <a href="https://bento.me/abdulhameed">Visit Portfolio</a>
+ 
+ - 📫 How to reach me *abdulhameedbcs001@gmail.com*
+
+ - 📄 Know about my experiences [https://www.linkedin.com/in/mrahameed](https://www.linkedin.com/in/mrahameed/)
 
 
  ---
- 
+
  ### Tools & Tech 
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -49,11 +53,9 @@ I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :clou
 
 ## Statistics
 
-<p align="center">
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdulhameed-10&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" />
-
-</p>
-
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdulhameed-10&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulHameed-10&show_icons=true&locale=en&layout=compact" alt="AbdulHameed-10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulHameed-10&show_icons=true&locale=en" alt="AbdulHameed-10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulHameed-10&" alt="AbdulHameed-10" /></p>
 <div>
 </div>
