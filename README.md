@@ -3,7 +3,7 @@
 [![Dev.to Badge](https://img.shields.io/badge/-@Hameed-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.com/@mrahameed)](https://dev.to/mrahameed)
 [![Gmail Badge](https://img.shields.io/badge/-abdulhameedbcs001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulhameedbcs001@gmail.com)](mailto:abdulhameedbcs001@gmail.com)
 
-<img align="center" alt="Coding" width="1000" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1100">
 
 ## Hi 👋, 
 - 💻 I am **Abdul Hameed**, a **Software Developer** and the future **tycoon**.
