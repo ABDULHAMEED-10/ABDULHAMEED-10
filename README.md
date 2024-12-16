@@ -3,22 +3,30 @@
 [![Dev.to Badge](https://img.shields.io/badge/-@Hameed-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.com/@mrahameed)](https://dev.to/mrahameed)
 [![Gmail Badge](https://img.shields.io/badge/-abdulhameedbcs001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulhameedbcs001@gmail.com)](mailto:abdulhameedbcs001@gmail.com)
 
----
+<img align="center" alt="Coding" width="1000" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+
 ## Hi 👋, 
-I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :cloud:. I`m Passionated for develping AI/ML websites. Learning, exploring Programming Languages like java, Js/Ts and python. 
- 
- 
- - 👯 I’m looking for MERN, MEVN, PERN and ML Projects/Jobs.
- 
- - 💬 Ask me about Python, Full Stack Development, and specifically MERN.
- 
- - ⚡ Languages:  Python, Java, Cpp, and Javascript.
- 
- - 📫 How to reach me *abdulhameedbcs001@gmail.com*
+- 💻 I am **Abdul Hameed**, a **Software Developer** and the future **tycoon**.
+- 🎓 **Computer Science graduate** from **COMSATS University Islamabad**.  
+- 🌐 **Exploring** the world of Clouds like **AWS** and **Azure** ☁️.  
+- 💡 **Passionate** about developing **AI/ML websites** and continually learning new programming languages like **Java**, **JS/TS**, and **Python**.  
+- 👯 **Looking for** projects or roles in **Next.js**, **MERN**, **MEVN**, **PERN**, **Flutter**, and **Machine Learning**.  
+- 💬 **Ask me about**: **Python**, **Full-Stack Development**, and specifically **MERN**.  
+- ⚡ **Languages**: **Python**, **Java**, **C++**, **Dart**, and **JavaScript**.  
+- 🤝 **Talk to me** about **football**, **computers**, or **life**. 
+- 📫 **How to reach me**: **abdulhameedbcs001@gmail.com**
+- 📝 **Medium Articles**: [Explore My Insights](https://medium.com/@mr_abdulhameed)  
+- 🌟 **Portfolio**: [Check Out My Work](https://bento.me/abdulhameed)
+---
+## Connect with me 🤝
 
- - 📄 Know about my experiences [https://www.linkedin.com/in/mrahameed](https://www.linkedin.com/in/mrahameed/)
-
- - <a href="https://bento.me/abdulhameed">Visit Portfolio</a>
+<p align="left">
+<a href="https://linkedin.com/in/mrahameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21544400/abdul-hameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdul" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Abdul.Hameedx001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abdulhameed.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abdul" height="30" width="40" /></a>
+ <a href="https://medium.com/@mr_abdulhameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Abdul" height="30" width="40" /></a>
+</p>
 
 
  ---
@@ -43,23 +51,19 @@ I am Full-Stack Developer who is exploring world of Clouds like AWS, Azure :clou
 <img src="http://img.shields.io/badge/-Selenium-4DB33D?style=flat&logo=selenium&logoColor=white">
 <img src="http://img.shields.io/badge/-Docker-4285F4?style=flat&logo=docker&logoColor=white">
 <img src="http://img.shields.io/badge/-Jenkins-000001?style=flat&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/-C++-4285F4?style=flat&logo=Cpp&logoColor=white">  
+<img src="https://img.shields.io/badge/-Java-4DB33D?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/-flutter-4285F4?style=flat&logo=flutter&logoColor=FFFFFF">
 
 ---
-### Basic knowledge about other languages
-<img src="https://img.shields.io/badge/-C++-4285F4?style=flat&logo=Cpp&logoColor=white">  <img src="https://img.shields.io/badge/-Java-4DB33D?style=flat&logo=java&logoColor=white"> 
 
----
+ ### Statistics
+<p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulhameed-10&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Abdulhameed-10" /></p>
 
+<p>&nbsp;<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulhameed-10&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="Abdulhameed-10" /></p> 
 
-### Statistics
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ABDULHAMEED-10&&theme=github-dark-blue)](https://git.io/streak-stats)
 
-## Most Used Languages
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulHameed-10&show_icons=true&locale=en&layout=compact" alt="AbdulHameed-10" /></p>
+[![committers.top badge](https://user-badge.committers.top/pakistan/Abdulhameed-10.svg)](https://user-badge.committers.top/pakistan/Abdulhameed-10)
 
-## Github Score
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulHameed-10&show_icons=true&locale=en" alt="AbdulHameed-10" /></p>
-
-## Streak
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdulhameed-10&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" /></p>
-<div>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdulhameed-10&label=Profile%20views&color=0e75b6&style=flat" alt="Abdulhameed-10" /> </p>
