@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1100">
 
 ## Hi 👋, 
-- 💻 I am **Abdul Hameed**, a **Software Developer** and the future **tycoon**.
+- 💻 I am **Abdul Hameed**, a **Software Developer** and the future **Business tycoon**.
 - 🎓 **Computer Science graduate** from **COMSATS University Islamabad**.  
 - 🌐 **Exploring** the world of Clouds like **AWS** and **Azure** ☁️.  
 - 💡 **Passionate** about developing **AI/ML websites** and continually learning new programming languages like **Java**, **JS/TS**, and **Python**.  
