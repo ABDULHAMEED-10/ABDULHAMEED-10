@@ -62,7 +62,7 @@
 
 <p>&nbsp;<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulhameed-10&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="Abdulhameed-10" /></p> 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ABDULHAMEED-10&theme=dark" alt="GitHub Streak" /></a>
+<p><img height=180em src="https://streak-stats.demolab.com?user=ABDULHAMEED-10&theme=dark" alt="Abdul Hameed" /></p>
 
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/Abdulhameed-10.svg)](https://user-badge.committers.top/pakistan/Abdulhameed-10)
