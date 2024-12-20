@@ -10,8 +10,8 @@
 - 🎓 **Computer Science graduate** from **COMSATS University Islamabad**.  
 - 🌐 **Exploring** the world of Clouds like **AWS** and **Azure** ☁️.  
 - 💡 **Passionate** about developing **AI/ML websites** and continually learning new programming languages like **Java**, **JS/TS**, and **Python**.  
-- 👯 **Looking for** projects or roles in **Next.js**, **MERN**, **MEVN**, **PERN**, **Flutter**, and **Machine Learning**.  
-- 💬 **Ask me about**: **Python**, **Full-Stack Development**, and specifically **MERN**.  
+- 👯 **Looking for** projects or roles in **Next.js**, **Nest**, **MERN**, **MEVN**, **PERN**, **Swift**, **Go**,   **Flutter**, and **Machine Learning**.  
+- 💬 **Ask me about**: **Python**, **Full-Stack Web and App Development**.  
 - ⚡ **Languages**: **Python**, **Java**, **C++**, **Dart**, and **JavaScript**.  
 - 🤝 **Talk to me** about **football**, **computers**, or **life**. 
 - 📫 **How to reach me**: **abdulhameedbcs001@gmail.com**
