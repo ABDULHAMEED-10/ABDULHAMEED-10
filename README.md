@@ -58,11 +58,11 @@
 ---
 
  ### Statistics
-<p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulhameed-10&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Abdulhameed-10" /></p>
+<p><img height=190em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulhameed-10&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Abdulhameed-10" /></p>
 
-<p>&nbsp;<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulhameed-10&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="Abdulhameed-10" /></p> 
+<p>&nbsp;<img height=190em align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulhameed-10&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="Abdulhameed-10" /></p> 
 
-<a href="https://github.com/ABDULHAMEED-10/"><img src="https://github-readme-streak-stats-one-sable.vercel.app?user=ABDULHAMEED-10&theme=dark" alt="Abdul Hameed GitHub Streak" /></a>
+<a href="https://github.com/ABDULHAMEED-10/"><img height=180em src="https://github-readme-streak-stats-one-sable.vercel.app?user=ABDULHAMEED-10&theme=dark" alt="Abdul Hameed GitHub Streak" /></a>
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/Abdulhameed-10.svg)](https://user-badge.committers.top/pakistan/Abdulhameed-10)
 
