@@ -72,7 +72,7 @@
 ### GitHub Profile Card
 
 ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulHameed-10&theme=nord_dark)
-<!-- <a href="https://github.com/ABDULHAMEED-10/"><img height=180em src="https://github-readme-streak-stats-one-sable.vercel.app?user=ABDULHAMEED-10&theme=dark" alt="Abdul Hameed GitHub Streak" /></a> -->
+ <a href="https://github.com/ABDULHAMEED-10/"><img height=180em src="https://github-readme-streak-stats-one-sable.vercel.app?user=ABDULHAMEED-10&theme=dark" alt="Abdul Hameed GitHub Streak" /></a> 
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/Abdulhameed-10.svg)](https://user-badge.committers.top/pakistan/Abdulhameed-10)
 
