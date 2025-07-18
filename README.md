@@ -1,76 +1,99 @@
+<h1 align="center">Hi 👋, I'm Abdul Hameed</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-mrahameed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrahameed)](https://www.linkedin.com/in/mrahameed)
-[![Dev.to Badge](https://img.shields.io/badge/-@Hameed-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.com/@mrahameed)](https://dev.to/mrahameed)
-[![Gmail Badge](https://img.shields.io/badge/-abdulhameedbcs001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulhameedbcs001@gmail.com)](mailto:abdulhameedbcs001@gmail.com)
-
-<!--<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1100">-->
-
-# Hi 👋, 
-- 💻 I am **Abdul Hameed**, a **Software Developer**.
-- 🎓 **Computer Science graduate** from **COMSATS University Islamabad**.  
-- 🌐 **Exploring** the world of Clouds like **AWS** and **Azure**.  
-- 💡 **Passionate** about developing **MERN and AI integrated websites** and continually learning new programming languages like **Kotlin**, **Swift**, **Go**, **Flutter**.  
-- 👯 **Looking for** projects or roles in **Next.js**, **Nest**, **MERN**, **MEVN**, **PERN**, and **Machine Learning**.  
-- 💬 **Ask me about**: **Python**, **Full-Stack Web Development**.  
-- ⚡ **Languages**: **Python** and **JavaScript**.  
-- 🤝 **Talk to me** about **football**, **computers**, or **life**. 
-- 📫 **How to reach me**: **abdulhameedbcs001@gmail.com**
-- 📝 **Medium Articles**: [Explore My Insights](https://medium.com/@mr_abdulhameed)  
-- 🌟 **Portfolio**: [Check Out My Work](https://bento.me/abdulhameed)
----
-## Connect with me 🤝
-
-<p align="left">
-<a href="https://linkedin.com/in/mrahameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21544400/abdul-hameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdul" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Abdul.Hameedx001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abdulhameed.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abdul" height="30" width="40" /></a>
- <a href="https://medium.com/@mr_abdulhameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Abdul" height="30" width="40" /></a>
+<p align="center">
+  🚀 Full Stack Developer | AI Integrator | Founder of Rixon Agency  
+</p>
+<p align="center">
+  I specialize in turning ideas into production-ready digital products — from smart UIs to AI-powered backends.
 </p>
 
+---
 
- ---
 
- ## Tools & Tech 
+## 🧠 About Me
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-python-FFA611?style=flat&logo=python&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="http://img.shields.io/badge/-Next-4285F4?style=flat&logo=Next.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=expressjs&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Tailwind-cc6699?style=flat&logo=tailwindcss&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-mySQL-e535ab?style=flat&logo=mySQL&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-aws-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Selenium-4DB33D?style=flat&logo=selenium&logoColor=white">
-<img src="http://img.shields.io/badge/-Docker-4285F4?style=flat&logo=docker&logoColor=white">
-<img src="http://img.shields.io/badge/-Jenkins-000001?style=flat&logo=jenkins&logoColor=white"> 
-<!--<img src="https://img.shields.io/badge/-Java-4DB33D?style=flat&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Flutter-4285F4?style=flat&logo=flutter&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Go-FFA611?style=flat&logo=Go&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Swift-F1502F?style=flat&logo=swift&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-C++-4285F4?style=flat&logo=C++&logoColor=white">--> 
+- 💼 Founder of **Rixon Agency**
+- 👨‍💻 Working with startups and businesses in 🇺🇸, 🇬🇧, 🇵🇰 & Gulf
+- 🧩 Specialized in full-stack web, mobile apps, and AI integrations
+- ⚙️ Integrating GPT-4, Gemini, Whisper, Coqui-TTS, LangChain
+- 🎨 Crafting smooth frontends with **Next.js, React, Tailwind CSS, Flutter**
+- ⚡ Backend APIs & automation with **Node.js, Flask, Python, MongoDB**
+- 📦 Worked on 20+ client projects with full-cycle development and delivery
 
 
 
 ---
+## 🚀 Tech Stack & Tools
 
-## Statistics
-<!--<img height=190em width=full align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulhameed-10&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Abdulhameed-10" />-->
-<p align="center"><img height=180em src="https://github-readme-stats.vercel.app/api?username=Abdulhameed-10&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="Abdulhameed-10" /></p> 
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+![Nuxt 3](https://img.shields.io/badge/-Nuxt3-00DC82?logo=nuxt.js&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+
+### 🛠️ Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
+
+### 🤖 AI, Automation & GenAI Tools
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)
+![Gemini](https://img.shields.io/badge/-Gemini-000000?logo=google&logoColor=white&style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-2E86C1?style=flat)
+![Coqui-TTS](https://img.shields.io/badge/-Coqui--TTS-FF7F50?style=flat)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white&style=flat)
+![Make](https://img.shields.io/badge/-Make-3F2DA5?logo=make&logoColor=white&style=flat)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat)
+![Cursor](https://img.shields.io/badge/-Cursor_AI-333333?style=flat&logo=Cursor)
+
+### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
+![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?logo=git&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
+
+### 🎨 Design & Productivity
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat)
+
 
 ---
 
-### GitHub Profile Card
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Abdulhameed-10&theme=synthwave&hide_border=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" /></p>
+## 📊 GitHub Stats
 
 
-<p> <img src="https://komarev.com/ghpvc/?username=Abdulhameed-10&label=Profile%20views&color=0e75b6&style=flat" alt="Abdulhameed-10" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdulhameed-10&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulhameed-10&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="mailto:abdulhameedbcs001@gmail.com"><img src="https://img.shields.io/badge/Gmail-abdulhameedbcs001@gmail.com-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Abdulhameed-10"><img src="https://img.shields.io/badge/GitHub-Abdulhameed--10-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mrahameed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://bento.me/abdulhameed"><img src="https://img.shields.io/badge/Portfolio-View-lightgrey?style=flat&logo=internet-explorer&logoColor=black"/></a>
+</p>
