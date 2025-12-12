@@ -78,7 +78,13 @@
 
 ## 📊 GitHub Stats
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDULHAMEED-10&show=stars,commits,prs,issues,repos&theme=dark)](https://github.com/ABDULHAMEED-10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULHAMEED-10&layout=compact&theme=dark)](https://github.com/ABDULHAMEED-10)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABDULHAMEED-10&theme=dark)](https://github.com/ABDULHAMEED-10)
+
+## 📌 Featured Projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ABDULHAMEED-10&repo=YOUR_REPO_NAME&theme=dark)](https://github.com/ABDULHAMEED-10/YOUR_REPO_NAME)
 
 ---
 
