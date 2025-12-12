@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdul Hameed</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | AI Integrator | Founder of Rixon Agency  
+  Full Stack Developer | AI Integrator | Founder of Rixon Agency  
 </p>
 <p align="center">
-  I specialize in turning ideas into production-ready digital products — from smart UIs to AI-powered backends.
+  I am specialize in turning ideas into production-ready digital products, from smart UIs to AI-powered backends.
 </p>
 
 ---
@@ -71,14 +71,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat)
-
-
----
-
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDULHAMEED-10&show=stars,commits,prs,issues,repos&theme=dark)]
 
 ---
 
