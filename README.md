@@ -20,9 +20,23 @@
 - ⚡ Backend APIs & automation with **Node.js, Flask, Python, MongoDB**
 - 📦 Worked on 20+ client projects with full-cycle development and delivery
 
+---
 
+## 📌 Featured Projects
+
+### 🚧 Halqio — Construction SaaS
+A SaaS platform for craftsmen to create quotes, send invoices, track payments, manage leads, and handle admin processes.  
+🔗 **Repo:** https://github.com/Halion777/SaaS  
+🔗 **Live Website:** https://halqio.com
+
+
+### ✂️ Hector’s Luxury — UK Fitness & Grooming Brand
+A modern brand site for grooming products, perfumes, fitness underwear, and artistic canvas art.  
+🔗 **Repo:** https://github.com/ABDULHAMEED-10/HectorsLuxury  
+🔗 **Live Website:** https://hectorsglobalhair.com
 
 ---
+
 ## 🚀 Tech Stack & Tools
 
 ### 🖥️ Frontend
