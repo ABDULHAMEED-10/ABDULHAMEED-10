@@ -72,13 +72,6 @@
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat)
 
-
----
-
-
-## 📊 GitHub Stats
-
-
 ---
 
 ## 📫 Let’s Connect
