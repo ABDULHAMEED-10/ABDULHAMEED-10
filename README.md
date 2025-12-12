@@ -78,14 +78,7 @@
 
 ## 📊 GitHub Stats
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdulhameed-10&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulhameed-10&theme=github-compact" alt="GitHub Activity Graph" />
-</p>
+https://u8views.com/api/v1/github/profiles/101985756/views/day-week-month-total-count.svg
 
 ---
 
