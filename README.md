@@ -27,7 +27,7 @@
 ### 🚧 Halqio — Construction SaaS
 A SaaS platform for craftsmen to create quotes, send invoices, track payments, manage leads, and handle admin processes.  
 🔗 **Repo:** https://github.com/Halion777/SaaS  
-🔗 **Live Website:** https://halqio.com
+🔗 **Live Website:** https://haliqo.com
 
 
 ### ✂️ Hector’s Luxury — UK Fitness & Grooming Brand
