@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Hameed</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | AI Integrator | Founder of Rixon Agency  
+  Full Stack Developer | AI Integrator | Founder of Rixon Agency  
 </p>
 <p align="center">
   I specialize in turning ideas into production-ready digital products, from smart UIs to AI-powered backends.
