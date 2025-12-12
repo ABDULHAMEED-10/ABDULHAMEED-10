@@ -84,7 +84,7 @@
 
 ## 📌 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ABDULHAMEED-10&repo=HectorsLuxury&theme=dark)](https://github.com/ABDULHAMEED-10/YOUR_REPO_NAME)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ABDULHAMEED-10&repo=https://github.com/ABDULHAMEED-10/HectorsLuxury&theme=dark)](https://github.com/ABDULHAMEED-10/YOUR_REPO_NAME)
 
 ---
 
