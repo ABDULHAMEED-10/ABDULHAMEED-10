@@ -78,8 +78,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDULHAMEED-10&show=stars,commits,prs,issues,repos&theme=dark)](https://github.com/ABDULHAMEED-10)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDULHAMEED-10&show=stars,commits,prs,issues,repos&theme=dark)]
 ---
 
 ## 📫 Let’s Connect
