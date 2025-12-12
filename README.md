@@ -78,7 +78,7 @@
 
 ## 📊 GitHub Stats
 
-https://u8views.com/api/v1/github/profiles/101985756/views/day-week-month-total-count.svg
+[![Abdul hameed profile views](https://u8views.com/api/v1/github/profiles/101985756/views/day-week-month-total-count.svg)](https://u8views.com/github/ABDULHAMEED-10)
 
 ---
 
