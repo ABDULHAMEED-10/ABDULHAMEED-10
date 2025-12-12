@@ -4,7 +4,7 @@
   Full Stack Developer | AI Integrator | Founder of Rixon Agency  
 </p>
 <p align="center">
-  I specialize in turning ideas into production-ready digital products, from smart UIs to AI-powered backends.
+  I am specialize in turning ideas into production-ready digital products, from smart UIs to AI-powered backends.
 </p>
 
 ---
