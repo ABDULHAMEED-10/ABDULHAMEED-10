@@ -24,7 +24,7 @@
 
 ## 📌 Featured Projects
 
-### 🚧 Halqio — Construction SaaS
+### 🚧 Haliqo — Construction SaaS
 A SaaS platform for craftsmen to create quotes, send invoices, track payments, manage leads, and handle admin processes.  
 🔗 **Repo:** https://github.com/Halion777/SaaS  
 🔗 **Live Website:** https://haliqo.com
