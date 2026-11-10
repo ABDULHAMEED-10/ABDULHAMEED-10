@@ -138,11 +138,6 @@ A responsive e-commerce and brand platform for a UK lifestyle and grooming busin
 
 ## GitHub Analytics
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABDULHAMEED-10&theme=tokyonight" />
-</p>
-
-
 
 <p align="center">
   <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULHAMEED-10&theme=tokyonight&hide_border=true" />
